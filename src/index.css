@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* 
+  DICA PARA CUSTOMIZAÇÃO:
+  Você pode definir cores globais aqui usando variáveis do CSS ou estendendo o tema no tailwind.config.js.
+  Para mudar as cores principais da aplicação, procure pelas classes:
+  - bg-emerald-600 (Verde principal)
+  - text-emerald-600
+  - bg-stone-50 (Fundo claro)
+  - bg-stone-800 (Preto/Cinza escuro dos botões)
+*/

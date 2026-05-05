@@ -1,0 +1,5 @@
+{
+  "name": "Serra Colaboradores",
+  "description": "Gestão e localização de colaboradores com base em raio de atuação e busca geográfica.",
+  "requestFramePermissions": ["geolocation"]
+}
